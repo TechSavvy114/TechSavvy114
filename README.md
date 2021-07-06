@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TechSavvy114
-- 👀 I’m interested in Mobile Application Deevelopment
+- 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently working on Flutter
 - 💞️ I’m looking to collaborate for projects
 - 📫 Reach me at Saurabh.singh114@gmail.com or www.linkedin.com/in/saurabh-singh-a38a00a0
